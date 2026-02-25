@@ -1,0 +1,7 @@
+{
+  "name": "Prescot LED - poszukiwanie odbiorców",
+  "description": "Profesjonalne narzędzie do wyszukiwania i kwalifikowania leadów B2B dla branży oświetleniowej LED w Polsce (POS, Reklama, Szkutnictwo).",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
